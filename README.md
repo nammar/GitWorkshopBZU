@@ -26,7 +26,7 @@ git push
 -perspective
 -synchronize workshpace
 -perspective
-
+-perspective
 # Basic commands/steps:
 # Github Web version:
 Add a new repository
