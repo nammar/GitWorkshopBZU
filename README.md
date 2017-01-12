@@ -23,6 +23,9 @@ git add
 git commit
 git push
 
+-perspective
+-synchronize workshpace
+-perspective
 
 # Basic commands/steps:
 # Github Web version:
