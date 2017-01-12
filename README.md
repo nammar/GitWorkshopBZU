@@ -13,3 +13,9 @@ commit changes
 synch again
 resolve conflicts
 testing
+
+# Advanced
+create a branch
+start a pull request
+test and accept
+
