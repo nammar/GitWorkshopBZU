@@ -33,5 +33,9 @@ create a branch
 start a pull request
 test and accept
 
+# misc
+how to link it with other apps
+-slack
+-email notifications
 
 
