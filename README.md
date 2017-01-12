@@ -13,6 +13,8 @@ publishing does not mean synching
 Github for eclipse
 https://eclipse.github.io
 
+-import a project in Eclipse by cloning a git repository 
+
 
 # Basic commands/steps:
 # Github Web version:
