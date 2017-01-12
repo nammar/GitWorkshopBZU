@@ -35,8 +35,10 @@ synch remote repository with local folder
 change files in an IDE 
 commit changes
 synch again
-resolve conflicts
-testing
+
+# resolve conflicts
+http://stackoverflow.com/questions/21559119/how-to-resolve-conflicts-in-egit
+
 
 # Advanced
 create a branch
