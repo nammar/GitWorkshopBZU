@@ -24,9 +24,12 @@ git commit
 git push
 
 -perspective
+<<<<<<< HEAD
 -synchronize workshpace
 -perspective
 -perspective
+=======
+>>>>>>> branch 'master' of https://github.com/nammar/GitWorkshopBZU.git
 # Basic commands/steps:
 # Github Web version:
 Add a new repository
