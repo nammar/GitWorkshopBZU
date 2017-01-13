@@ -19,8 +19,9 @@ https://eclipse.github.io
 -file team share
 
 # command line
-git status
-git add
+git status (working directory vs. remote (master branch))
+git pull (update)
+git add 
 git commit
 git push
 
@@ -48,8 +49,10 @@ test and accept
 
 # misc
 how to link it with other apps
+-get mobile notifications
 -slack
--email notifications
+https://slack.com
+-enable email notifications
 
 # useful links
 http://wiki.eclipse.org/EGit/User_Guide#Index
