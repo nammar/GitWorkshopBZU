@@ -30,7 +30,6 @@ git push: to push commits
 git log: history of commits
 
 
-
 # Basic commands/steps:
 # Github Web version:
 Add a new repository
@@ -41,9 +40,13 @@ Upload files
 synch remote repository with local folder
 # Git plugin for IDEs (Eclipse)
 -import a project in Eclipse by cloning a git repository 
--create a repository from an existin project: team share project
 -synchronize perspective 
--repository perspective
+
+-create a repository from an existin project: team share project
+-repository perspective remotes>create remote>
+then commit 
+http://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github
+
 
 # Advanced (another session)
 resolve conflicts
