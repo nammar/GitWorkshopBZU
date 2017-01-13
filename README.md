@@ -29,6 +29,8 @@ git commit -m "messages": to prepare commits
 git push: to push commits
 git log: history of commits
 
+
+
 # Basic commands/steps:
 # Github Web version:
 Add a new repository
