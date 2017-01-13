@@ -12,11 +12,11 @@ do not check in bin directory, .classpath, .project, system specific files
 
 
 # Installation instructions 
+Github account through web version
+Github desktop
 Github for eclipse
 https://eclipse.github.io
 
--import a project in Eclipse by cloning a git repository 
--file team share
 
 # command line
 git init: initialize an existing directory as a Git repository
@@ -24,8 +24,9 @@ git clone [url]: clone a github remote repository
 git status (working directory vs. remote (master branch))
 git pull (update)
 git add [file] (staging files in preparation for commit)
-git commit -m "messages"
-git log
+git commit -m "messages": to prepare commits
+git push: to push commits
+git log: history of commits
 
 # Basic commands/steps:
 # Github Web version:
@@ -36,10 +37,10 @@ Clone a repository to a local folder
 Upload files
 synch remote repository with local folder
 # Git plugin for IDEs (Eclipse)
-change files in an IDE 
-commit changes
-synch again
-
+-import a project in Eclipse by cloning a git repository 
+-create a repository from an existin project: team share project
+-synchronize perspective 
+-repository perspective
 
 # Advanced (another session)
 resolve conflicts
