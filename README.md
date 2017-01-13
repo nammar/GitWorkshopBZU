@@ -8,7 +8,8 @@ avoid committing zip files of projects commit .java files instead
 commit without synching 
 publishing does not mean synching
 commiting does not mean pushing
-never check in 
+do not check in bin directory, .classpath, .project, system specific files
+
 
 # Installation instructions 
 Github for eclipse
