@@ -19,12 +19,14 @@ https://eclipse.github.io
 -file team share
 
 # command line
-git status
-git add
-git commit
-git push
+git init: initialize an existing directory as a Git repository
+git clone [url]: clone a github remote repository
+git status (working directory vs. remote (master branch))
+git pull (update)
+git add [file] (staging files in preparation for commit)
+git commit -m "messages"
+git log
 
--perspective
 # Basic commands/steps:
 # Github Web version:
 Add a new repository
@@ -33,26 +35,30 @@ Add collaborators
 Clone a repository to a local folder 
 Upload files
 synch remote repository with local folder
+# Git plugin for IDEs (Eclipse)
 change files in an IDE 
 commit changes
 synch again
 
-# resolve conflicts
+
+# Advanced (another session)
+resolve conflicts
 http://stackoverflow.com/questions/21559119/how-to-resolve-conflicts-in-egit
-
-
-# Advanced
 create a branch
 start a pull request
-test and accept
+test and accept/merge with master
 
 # misc
 how to link it with other apps
+-get mobile notifications
 -slack
--email notifications
+https://slack.com
+-enable email notifications
 
 # useful links
+https://guides.github.com/activities/hello-world/
+https://education.github.com/git-cheat-sheet-education.pdf
 http://wiki.eclipse.org/EGit/User_Guide#Index
-
 http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.egit.doc%2Fhelp%2FEGit%2FUser_Guide%2FReference.html
+
 
