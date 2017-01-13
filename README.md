@@ -24,6 +24,7 @@ git clone [url]: clone a github remote repository
 git status (working directory vs. remote (master branch))
 git pull (update)
 git add [file] (staging files in preparation for commit)
+git add . then git status
 git commit -m "messages": to prepare commits
 git push: to push commits
 git log: history of commits
