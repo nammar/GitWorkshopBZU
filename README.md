@@ -69,5 +69,3 @@ https://education.github.com/git-cheat-sheet-education.pdf
 http://wiki.eclipse.org/EGit/User_Guide#Index
 http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.egit.doc%2Fhelp%2FEGit%2FUser_Guide%2FReference.html
 https://www.youtube.com/watch?v=BH4OqYHoHC0
-
-step 2
