@@ -42,10 +42,10 @@ https://eclipse.github.io
 # Advanced (another session)
 ## Git plugin for Eclipse 
 1. create a repository from an existin project: 
-.. 1. team share project
-.. 2. repository perspective remotes>create remote>
-..3. then commit 
-..4. http://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github
+..* team share project
+..* repository perspective remotes>create remote>
+..* then commit 
+..* http://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github
 
 ## resolve conflicts in Web, Desktop, and Eclipse
  http://stackoverflow.com/questions/21559119/how-to-resolve-conflicts-in-egit
